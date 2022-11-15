@@ -4,3 +4,22 @@
 body{
     background-color: rgb(7, 7, 75);
 }
+h1, h3, h2{
+    color: rgb(230, 19, 142);
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+
+li{
+    color: rgb(224,201, 215)
+}
+.invest{
+    text-align: left;
+}
+.help{
+   text-align: left;
+}
+
+
