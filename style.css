@@ -2,11 +2,12 @@
     color: white;
 }
 body{
-    background-color: rgb(7, 7, 75);
+    background-color: rgb(21, 143, 143);
 }
 h1, h3, h2{
-    color: rgb(230, 19, 142);
+    color: rgb(236, 213, 230);
     text-align: center;
+    font-family: 'Crimson Text', serif;
 }
 .center{
     text-align: center;
@@ -21,5 +22,13 @@ li{
 .help{
    text-align: left;
 }
-
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+.bold{
+    color: black;
+}
+  
