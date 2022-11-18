@@ -30,5 +30,12 @@ li{
   }
 .bold{
     color: black;
+    text-align: center;
 }
-  
+.dotted {
+    border-top: 3px dotted #bbb;
+  }
+.font{
+    font-size: 70px;
+    text-align: center;
+}
