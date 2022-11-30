@@ -2,10 +2,10 @@
     color: white;
 }
 body{
-    background-color: rgb(21, 143, 143);
+    background-color: rgb(4, 13, 65);
 }
 h1, h3, h2, h4, h5{
-    color: rgb(236, 213, 230);
+    color: white;
     text-align: center;
     font-family: 'Crimson Text', serif;
 }
@@ -14,7 +14,7 @@ h1, h3, h2, h4, h5{
 }
 
 li{
-    color: rgb(224,201, 215)
+    color:white;
 }
 .invest{
     text-align: left;
@@ -42,4 +42,15 @@ li{
 .clothes{
     color: rgb(236, 213, 230);
 }
+.bottom-center {
+    position: absolute;
+    bottom: 4px;
+    right: 16px;
+  }
+.white-bg{
+    background-color: white;
+}
+  .picture{
+    text-align: center;
+  }
 
