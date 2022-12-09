@@ -8,4 +8,4 @@ Grace Chouinard
 
 
 Lance brooks 
-Hi, I'm Lance Brooks. The most difficult challenge was my clothes title not being centered I tried so many things change the style css, the id, and the class nothing worked but as soon as i changed the colume it centered. The thing i most enjoyed was working with this group and making new friends 
+Hi, I'm Lance Brooks. The most difficult challenge was my clothes title not being centered I tried so many things change the style css, the id, and the class nothing worked but as soon as i changed the colume it centered. The thing i most enjoyed was working with this group and making new friends.
