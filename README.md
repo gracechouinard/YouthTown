@@ -9,3 +9,12 @@ Grace Chouinard
 
 Lance brooks 
 Hi, I'm Lance Brooks. The most difficult challenge was my clothes title not being centered I tried so many things change the style css, the id, and the class nothing worked but as soon as i changed the colume it centered. The thing i most enjoyed was working with this group and making new friends.
+
+
+
+Stephanie Torres
+Hi, I'm Stephanie Torres. I loved working on this website with my friends. My accomplishment was making the marquee thats on the about page and the whole event page!
+
+
+Caden Davis
+Hi, I'm Caden Davis! I made the fonts that are featured on this website. I also proofread the website to check for any grammatical errors!!!!
