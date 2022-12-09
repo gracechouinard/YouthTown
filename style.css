@@ -1,3 +1,8 @@
+img{
+	border-radius: 5rem;
+}
+
+
 .white-bo{
     color: white;
 }
@@ -300,7 +305,7 @@ select{
 #donate{
 	position: relative;
  	text-align: center;
-  	color: rgb(4, 13, 65);
+  	color: rgb(117, 129, 192);
 	text-decoration: none;
 }
 .centered {
@@ -311,3 +316,27 @@ select{
   }
 
 
+
+
+  .popup {
+	position: relative;
+	display: inline-block;
+	cursor: pointer;
+  }
+  
+  /* The actual popup (appears on top) */
+  .popup .popuptext {
+	visibility: hidden;
+	width: 160px;
+	background-color: #555;
+	color: #fff;
+	text-align: center;
+	border-radius: 6px;
+	padding: 8px 0;
+	position: absolute;
+	z-index: 1;
+	bottom: 125%;
+	left: 50%;
+	margin-left: -80px;
+  }
+  
