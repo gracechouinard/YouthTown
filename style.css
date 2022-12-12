@@ -339,4 +339,8 @@ select{
 	left: 50%;
 	margin-left: -80px;
   }
+
+  @media only screen and (max-width: 768px) {
+	
+  }
   
